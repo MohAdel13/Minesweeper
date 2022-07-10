@@ -1,0 +1,61 @@
+﻿Build started 09/07/2022 08:57:25.
+     1>Project "D:\Projects\minesweeper project\Project\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Projects\minesweeper project\Project\Project1\/SFML-2.5.1/include" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib main.cpp
+         main.cpp
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(212): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(213): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(214): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(215): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(216): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(217): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(218): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(219): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(220): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(221): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(222): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(231): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(239): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(251): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(661): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(662): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(663): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(664): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(665): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(666): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(667): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(668): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(669): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(670): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(671): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(679): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(687): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(699): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1108): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1109): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1110): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1111): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1112): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1113): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1114): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1115): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1116): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1117): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1118): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1126): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1134): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\minesweeper project\project\project1\project1\main.h(1146): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\minesweeper project\Project\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Projects\minesweeper project\Project\Project1\/SFML-2.5.1/lib" "sfml-main-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\Project1.Loser.resources /ASSEMBLYRESOURCE:Debug\Project1.main.resources /ASSEMBLYRESOURCE:Debug\Project1.MyForm.resources /ASSEMBLYRESOURCE:Debug\Project1.Scores.resources /ASSEMBLYRESOURCE:Debug\Project1.Winner.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects\minesweeper project\Project\Project1\Debug\Project1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Project1.res
+         Debug\Loser.obj
+         Debug\main.obj
+         Debug\MyForm.obj
+         Debug\Scores.obj
+         Debug\Winner.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Project1.vcxproj -> D:\Projects\minesweeper project\Project\Project1\Debug\Project1.exe
+     1>Done Building Project "D:\Projects\minesweeper project\Project\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.79
